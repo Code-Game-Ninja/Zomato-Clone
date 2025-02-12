@@ -13,9 +13,6 @@ This is a simple Zomato clone website built using **HTML** and **Tailwind CSS**.
 ```
 Zomato-Clone/
 │── index.html         # Main homepage
-│── assets/
-│   ├── images/        # Logo and other images
-│   ├── styles/        # Tailwind CSS setup
 │── README.md          # Project documentation
 ```
 
