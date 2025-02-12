@@ -23,7 +23,7 @@ Zomato-Clone/
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/zomato-clone.git
+   git clone https://github.com/Code-Game-Ninja/zomato-clone.git
    ```
 2. Navigate to the project folder:
    ```sh
